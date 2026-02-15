@@ -16,3 +16,6 @@ A simple implementation of the Snake game in C++ using OpenGL 3.3.
 
 ## Compilation (Linux Example)
 g++ main.cpp -o snake -lGLEW -lglfw -lGL
+
+## Note
+Disclaimer: This project is for educational purposes only.
